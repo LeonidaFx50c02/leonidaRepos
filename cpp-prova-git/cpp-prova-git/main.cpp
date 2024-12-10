@@ -3,9 +3,11 @@
 using namespace std;
 
 int main () {
-	int a = 4;
+	int a = 3;
 
-	int b = 5 * a;
-	cout << "20" << endl;
+	int b = 12 * a;
+	cout << "36" << endl;
 	cout << b;
+	cout << "Mi chiamo peppo" << endl;
+
 }
