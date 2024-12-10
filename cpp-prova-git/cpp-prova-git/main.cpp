@@ -2,12 +2,14 @@
 
 using namespace std;
 
-int main () {
+int main () 
+{
+
 	int a = 3;
 
 	int b = 12 * a;
-	cout << "36" << endl;
+	cout << "112" << endl;
 	cout << b;
-	cout << "Mi chiamo peppo" << endl;
+	cout << " Mi chiamo peppo" << endl;
 
 }
